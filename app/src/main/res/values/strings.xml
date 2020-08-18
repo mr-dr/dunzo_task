@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Gallery</string>
+    <string name="showing_results_for">Showing results for \"%s\"</string>
+    <string name="make_a_search">Search for a keyword to see images.</string>
+    <string name="no_results">No results found! Please try a different keyword.</string>
+    <string name="no_search_keyword">Please enter a keyword to search!</string>
+    <string name="search_hint">Enter search text here</string>
+</resources>
